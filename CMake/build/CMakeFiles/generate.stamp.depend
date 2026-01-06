@@ -1,0 +1,54 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeCXXInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeDependentOption.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeGenericSystem.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeRCInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/CheckLibraryExists.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Compiler/MSVC.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/FindPackageMessage.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/FindThreads.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/FindVulkan.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Linker/MSVC.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/Windows.cmake
+C:/Program Files/cmake-4.0.2-windows-x86_64/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/CMakeLists.txt
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/CMakeFiles/4.0.2/CMakeRCCompiler.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/CMakeFiles/4.0.2/CMakeSystem.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glm/glmConfig-debug.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glm/glmConfig-release.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glm/glmConfig.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/glm/glmConfigVersion.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config-version.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-config.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-debug.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets-release.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/build/vcpkg_installed/x64-windows/share/tinyobjloader/tinyobjloader-targets.cmake
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/vcpkg-configuration.json
+C:/Users/redsh/Documents/GitHub/Custom_Vulkan_Graphics_Engine/CMake/vcpkg.json
+C:/Users/redsh/Documents/GitHub/vcpkg/scripts/buildsystems/vcpkg.cmake

@@ -1,0 +1,42 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 9c9b56e3a6bca38004651b9a8e609b4d519317f5320395bbd65927c6bfd2c14d
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 739b5b8612bda92355feacf1557f1c0bc2173a1976595b60e46bda33ffb8d05c
+Status: install ok installed
+
+Package: glfw3
+Version: 3.4
+Port-Version: 1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f80e3097799726665993ac9367891e67d039d426c88244d5bd9bf9c2ddd08611
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Status: install ok installed
+
+Package: glm
+Version: 1.0.2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d093c18f5471efe55ba566d8100c2efee4be943d890ebdaa323ad0a7b2a12c52
+Description: OpenGL Mathematics (GLM)
+Status: install ok installed
+
+Package: tinyobjloader
+Version: 2.0.0rc13
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e216b14db930f6dba3a12e3288e6e1c6f840193244833e7351606efec536864a
+Description: Tiny but powerful single file wavefront obj loader
+Status: install ok installed
+
